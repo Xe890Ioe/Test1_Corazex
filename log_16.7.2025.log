@@ -1,0 +1,22 @@
+July 16, 2025, 3:25 pm
+----------- DATA -------------
+Array
+(
+    [name] => Test
+    [phone] => +1 809 555 1234
+    [offerId] => 7b9c4969-8a04-4e43-bf91-726d3168bda3
+    [domain] => http://localhost:3000/lemon.php
+    [ip] => ::1
+    [utm_campaign] => 
+    [utm_content] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_term] => 
+    [clickid] => 
+    [fbpxl] => 
+    [cost] => 1990
+)
+
+----------- RESPONSE ---------
+{"localClickId":"8771cb49-055d-4df1-a23a-67e4dbf94690","result":"ok"}
+----------- END --------------
