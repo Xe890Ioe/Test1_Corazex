@@ -196,7 +196,7 @@
   </script>
   <!-- Countdown Timer -->
   <script>
-    let timer = 120;
+    let timer = 1800;
     const timerEl = document.getElementById('timer');
     const formEl = document.getElementById('promo-form');
     const expiredMsg = document.getElementById('expired-message');
